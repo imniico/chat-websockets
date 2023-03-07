@@ -1,0 +1,16 @@
+body{
+    font-family: "Poppins";
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+body > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    height: 50px;
+    border-radius: 20px;
+}
